@@ -4,7 +4,7 @@
 
 A small Chrome extension that mutes YouTube ads, restores your previous mute setting afterward, and clicks Skip as soon as its button is available.
 
-Free and open source under the MIT license. No account, backend, analytics, or tracking. Chrome Web Store publication is pending.
+Free and open source under the MIT license. No account, backend, analytics, or tracking. Submitted to the Chrome Web Store on October 10, 2026 and awaiting review. It will publish automatically if approved. Until then, install from the GitHub release below.
 
 ## Install now
 
