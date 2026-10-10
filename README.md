@@ -1,6 +1,6 @@
 # QuietSkip
 
-![QuietSkip icon](extension/icons/icon128.png)
+<img src="assets/quietskip-logo.png" alt="QuietSkip logo" width="320">
 
 A small Chrome extension that mutes YouTube ads, restores your previous mute setting afterward, and clicks Skip as soon as its button is available.
 
