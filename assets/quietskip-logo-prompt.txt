@@ -1,0 +1,1 @@
+Built-in imagegen edit. Remove only the white corners outside the rounded teal square. Preserve the mint Q and skip mark, teal texture, proportions, and silhouette. Use alpha transparency outside the rounded square. No redesign.

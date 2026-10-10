@@ -8,7 +8,7 @@ Free and open source under the MIT license. No account, backend, analytics, or t
 
 ## Install now
 
-1. Download `quietskip-0.3.1.zip` from [Releases](https://github.com/josephtwilliams/quietskip/releases/latest).
+1. Download `quietskip-0.3.2.zip` from [Releases](https://github.com/josephtwilliams/quietskip/releases/latest).
 2. Extract the ZIP into a folder you will keep on your computer.
 3. Open `chrome://extensions` in desktop Chrome and enable **Developer mode**.
 4. Choose **Load unpacked**, then select the extracted folder containing `manifest.json`.
