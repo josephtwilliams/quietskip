@@ -1,0 +1,1 @@
+Built-in imagegen edit. Source: promo-440x280.png. Preserve mint Q skip logo, dark teal textured background, exact QuietSkip name and Mute ads. Skip when ready. tagline. Remove large empty space above and below. Make a short 3:1 horizontal README banner with modest vertical padding. No new elements or redesign.
